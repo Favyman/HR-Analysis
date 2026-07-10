@@ -110,7 +110,7 @@ Some notable insights generated from the dashboard include:
 
 ## 📷 Dashboard Preview
 
-> *(Insert dashboard screenshots here)*
+> *([Insert dashboard screenshots here](https://github.com/Favyman/HR-Analysis/commit/f30fde21537e1e3144d4bb61ccb3fccd9ee41d62))*
 ```
 images/
 │── HR Dashboard Overview.png
