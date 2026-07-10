@@ -88,7 +88,7 @@ Some notable insights generated from the dashboard include:
 - Analysis of workforce distribution by department and employment category.
 - Evaluation of absenteeism trends to identify productivity risks.
 - Performance comparison across organizational units.This dashboard addresses these challenges by providing clear, interactive visualizations and key performance indicators.
-[HR Analysis Insights] (.......)
+[HR Analysis Insights] (https://github.com/Favyman/HR-Analysis/commit/2bd824b4af3e72a72e61f2c4f9ec7641801e7284)
 
 
   ## 🛠 Tools Used
