@@ -42,7 +42,7 @@ The dataset contains employee-level information, including:
 - Average Absenteeism Days
 - Employee Distribution by Department
 - Employee Distribution by Employment Type
-[HR Analysis Dashboard] (https://github.com/Favyman/HR-Analysis/commit/f30fde21537e1e3144d4bb61ccb3fccd9ee41d62)
+[HR Analysis Dashboard] (https://github.com/Favyman/HR-Analysis/commit/744819160d97eb7d082cfae87fcc3ec4f438c32f)
 
  ### Performance Analysis
 - Average Performance by Department
@@ -110,7 +110,7 @@ Some notable insights generated from the dashboard include:
 
 ## 📷 Dashboard Preview
 
-> *([Insert dashboard screenshots here](https://github.com/Favyman/HR-Analysis/commit/f30fde21537e1e3144d4bb61ccb3fccd9ee41d62))*
+> *([Insert dashboard screenshots here](https://github.com/Favyman/HR-Analysis/commit/744819160d97eb7d082cfae87fcc3ec4f438c32f))*
 ```
 images/
 │── HR Dashboard Overview.png
